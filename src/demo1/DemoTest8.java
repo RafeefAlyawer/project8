@@ -4,7 +4,7 @@ public class DemoTest8 {
 	 public static void main (String args []) {
 		 System.out.println("JavaIsFun");
 		 System.out.println("Alhakam");
-		 
+		 // change name
 		 String name = "Alhakam";
 		 int age = 9 ;
 		 
